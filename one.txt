@@ -1,3 +1,5 @@
+kara
+jal
 Apple
 cat
 Dog
